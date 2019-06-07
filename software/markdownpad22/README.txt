@@ -1,0 +1,1 @@
+安装过程中的问题在markdownpad2.md中可发现
