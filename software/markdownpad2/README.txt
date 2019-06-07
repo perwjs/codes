@@ -1,1 +1,0 @@
-markdownpad2安装的一些问题
